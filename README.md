@@ -4,9 +4,8 @@ Sistema web para planear viajes: elegir destino, generar un itinerario
 día por día asistido por IA, y dar seguimiento al presupuesto y estado
 de cada viaje, todo en un solo lugar.
 
-## Integrantes
-- Martinez Lopez Eduardo Manuel
-- Cruz Alonso Kelly Adanari
+## Autora
+- Nierika Giner Coache
 
 ## Problemática
 Planear un viaje suele implicar usar varias herramientas sueltas (notas,
